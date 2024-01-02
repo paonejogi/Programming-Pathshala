@@ -1,2 +1,2 @@
 # Programming-Pathshala
-Learning 
+Learning and documenting the code files.
